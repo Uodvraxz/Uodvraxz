@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Uodvraxz
-- 👀 I’m interested in building a website to host my maths ed content
-- 🌱 I’m currently learning Next.js
+- 👋 Hi, I’m Theo
+- 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m a mathematician with a strong background in theoretical CS so can collaborate in projects that require problem solving and algorithm design. Not so good at actual coding. 
 - 📫 How to reach me: @uodvraxz on Twitter
 
